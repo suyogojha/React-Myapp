@@ -1,0 +1,14 @@
+
+*{
+    box-sizing: border-box;
+
+}
+
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: pink;
+}
